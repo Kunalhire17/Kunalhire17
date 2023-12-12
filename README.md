@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kunal Hire</h1>
 <h3 align="center">Data Analyst | Data Scientist | Business Analyst | Research Analyst</h3>
-(img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/data-analysis-4209916")
+(img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/data-analysis-4518725-3753348.mp4")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalhire17&label=Profile%20views&color=0e75b6&style=flat" alt="kunalhire17" /> </p>
 
@@ -22,3 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalhire17&show_icons=true&locale=en&layout=compact" alt="kunalhire17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalhire17&show_icons=true&locale=en" alt="kunalhire17" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalhire17&" alt="kunalhire17" /></p>
+
