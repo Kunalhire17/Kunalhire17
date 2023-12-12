@@ -1,7 +1,7 @@
 ![logo](https://github.com/Kunalhire17/Kunalhire17/blob/main/Blue%20Minimalist%20Profesional%20Personal%20Linkedln%20Banner%20-%20New%20LinkedIn%20Banner%20-%20Google%20Chrome%2012-12-2023%207.06.39%20PM.png)
 <h1 align="center">Hi 👋, I'm Kunal Hire</h1>
 <h3 align="center">Data Analyst | Data Scientist | Business Analyst | Research Analyst</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://github.com/Kunalhire17/Kunalhire17/blob/main/data-analysis-4518725-3753348.mp4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalhire17&label=Profile%20views&color=0e75b6&style=flat" alt="kunalhire17" /> </p>
 
