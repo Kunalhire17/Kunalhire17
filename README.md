@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Hire</h1>
 <h3 align="center">Data Analyst | Data Scientist | Business Analyst | Research Analyst</h3>
-(img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/data-analysis-4518725-3753348.mp4")
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/data-analysis-4518725-3753348.mp4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalhire17&label=Profile%20views&color=0e75b6&style=flat" alt="kunalhire17" /> </p>
 
